@@ -142,6 +142,19 @@ Launches the test runner in interactive watch mode.
 
 Builds the app for production to the `build` folder.
 
+## 🔀 Merging Pull Requests
+
+To merge a pull request:
+
+1. Review the pull request for code quality, style, and functionality.
+2. Ensure all checks and tests pass.
+3. Leave feedback or request changes if necessary.
+4. Once approved, click the **Merge pull request** button on GitHub.
+5. Choose the appropriate merge option (e.g., "Create a merge commit" or "Squash and merge").
+6. Delete the feature branch if it is no longer needed.
+
+For more details, see [GitHub's documentation on merging pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request).
+
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -151,3 +164,9 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Author
+
+Willie B Daniels  
+[GitHub](https://github.com/Williedaniels)  
+[LinkedIn](https://www.linkedin.com/in/willie-b-daniels)  
