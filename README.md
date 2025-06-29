@@ -52,8 +52,8 @@ First, clone the main project repository to your local machine.
 *(Assuming the backend and frontend are in the same repository. If not, adjust accordingly.)*
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/Williedaniels/D-Agri_Talk.git
+cd D-Agri_Talk
 ```
 
 **2. Backend Setup**
